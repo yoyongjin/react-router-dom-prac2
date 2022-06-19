@@ -1,3 +1,4 @@
+import { useHistory } from "react-router-dom";
 import QuoteForm from "../components/quotes/QuoteForm";
 
 const NewQuote = () => {
